@@ -1,11 +1,11 @@
 # Site settings
 author: Austin Johnson
-title: 
+title: Technically Austin
 header-img: img/home-bg.png
 email: technicallyaustin@gmail.com
 copyright_name: Austin Johnson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A collection of all things Austin, --interests, hobbies, and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TechnicallyAustin
